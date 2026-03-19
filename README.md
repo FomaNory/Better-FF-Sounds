@@ -1,6 +1,7 @@
 #  Better FF Sounds
 
 ### A sound replacement mod for Resident Evil: Requiem
+<img width="1000" height="547" alt="logo" src="https://github.com/user-attachments/assets/9dcbd04d-b86c-4ae6-a7e5-5cd7d048ae06" />
 
 ---
 

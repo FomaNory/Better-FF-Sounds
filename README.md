@@ -24,7 +24,7 @@
 
 ## Installation
 
-1. Download the latest release from [Releases](#)
+1. Download the latest release from [Releases](https://github.com/FomaNory/Better-FF-Sounds/releases/tag/release)
 2. Launch the mod configurator or edit `config.yaml`
 3. Select a preset or point to your custom sound pack
 4. Start the game
